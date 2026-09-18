@@ -1,0 +1,5 @@
+{
+  "name": "Snowflake ML Co-Pilot",
+  "description": "The Enterprise ML Operations Layer for Snowflake. Orchestrates native AI (Cortex, Copilot) with governance, cost intelligence, and lifecycle awareness.",
+  "requestFramePermissions": []
+}
